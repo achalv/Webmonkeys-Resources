@@ -6,6 +6,7 @@ Cool stuff that the Webmonkeys found on the interwebz.
 //Front-end
 
 1. Best Practices :: http://isobar-idev.github.io/code-standards/
+2. Making your Browser go on a Diet :: http://browserdiet.com/
 
 //Back-end
 
