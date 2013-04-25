@@ -5,6 +5,7 @@ Cool stuff that the Webmonkeys found on the interwebz.
 
 //Front-end
 
+1. Best Practices :: http://isobar-idev.github.io/code-standards/
 
 //Back-end
 
